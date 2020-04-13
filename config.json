@@ -7,7 +7,7 @@
   "port": "9001",
   "enableLogs": "false",
   "autoRebootServerOnFailure": "false",
-  "isUseHTTPs": "false",
+  "isUseHTTPs": "true",
   "sslKey": "./fake-keys/privatekey.pem",
   "sslCert": "./fake-keys/certificate.pem",
   "sslCabundle": "",
