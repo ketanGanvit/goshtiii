@@ -11,7 +11,7 @@
   "author": "ketan",
   "license": "ISC",
   "dependencies": {
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "nodemon": "^2.0.2",
     "socket.io": "^2.3.0",
     "webrtc-adapter": "^7.5.0"
